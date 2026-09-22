@@ -15,7 +15,7 @@ import ChampionshipTimeline from "../Components/Championship/ChampionshipTimelin
 import { sports } from "../Data/sports";
 import { campuses } from "../Data/campuses";
 import { houses } from "../Data/houses";
-import { championshipStages } from "../data/championship";
+import { championshipStages } from "../Data/championship";
 
 function Home() {
   return (
