@@ -1,16 +1,16 @@
 import { Route, Routes } from "react-router-dom";
 
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import ScrollToTop from "./components/ScrollToTop";
+import Navbar from "./Components/Navbar";
+import Footer from "./Components/Footer";
+import ScrollToTop from "./Components/ScrollToTop";
 
-import Home from "./pages/Home";
-import Sports from "./pages/Sports";
-import Championship from "./pages/Championship";
-import Rules from "./pages/Rules";
-import Schedule from "./pages/Schedule";
-import Registration from "./pages/Registration";
-import NotFound from "./pages/NotFound";
+import Home from "./Pages/Home";
+import Sports from "./Pages/Sports";
+import Championship from "./Pages/Championship";
+import Rules from "./Pages/Rules";
+import Schedule from "./Pages/Schedule";
+import Registration from "./Pages/Registration";
+import NotFound from "./Pages/NotFound";
 
 function App() {
   return (
