@@ -5,16 +5,16 @@ import {
 } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 
-import Hero from "../components/Hero/Hero";
-import SectionHeading from "../components/SectionHeading";
-import SportsGrid from "../components/Sport/SportsGrid";
-import CampusSection from "../components/Campus/CampusSection";
-import HouseGrid from "../components/Houses/HouseGrid";
-import ChampionshipTimeline from "../components/Championship/ChampionshipTimeline";
+import Hero from "../Components/Hero/Hero";
+import SectionHeading from "../Components/SectionHeading";
+import SportsGrid from "../Components/Sport/SportsGrid";
+import CampusSection from "../Components/Campus/CampusSection";
+import HouseGrid from "../Components/Houses/HouseGrid";
+import ChampionshipTimeline from "../Components/Championship/ChampionshipTimeline";
 
-import { sports } from "../data/sports";
-import { campuses } from "../data/campuses";
-import { houses } from "../data/houses";
+import { sports } from "../Data/sports";
+import { campuses } from "../Data/campuses";
+import { houses } from "../Data/houses";
 import { championshipStages } from "../data/championship";
 
 function Home() {

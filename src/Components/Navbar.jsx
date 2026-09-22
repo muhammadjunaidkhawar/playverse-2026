@@ -6,7 +6,7 @@ import {
 } from "react-icons/fa6";
 import { Link, NavLink } from "react-router-dom";
 
-import { NAV_LINKS } from "../utils/constants";
+import { NAV_LINKS } from "../Utils/constants";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

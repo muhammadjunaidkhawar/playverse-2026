@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-import { championshipHighlights } from "../../data/championship";
+import { championshipHighlights } from "../../Data/championship";
 
 function HeroStats() {
   return (

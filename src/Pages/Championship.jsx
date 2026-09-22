@@ -2,9 +2,9 @@ import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { FaArrowLeft, FaArrowDown } from "react-icons/fa6";
 
-import SectionHeading from "../components/SectionHeading";
-import ChampionshipTimeline from "../components/Championship/ChampionshipTimeline";
-import { championshipStages } from "../data/championship";
+import SectionHeading from "../Components/SectionHeading";
+import ChampionshipTimeline from "../Components/Championship/ChampionshipTimeline";
+import { championshipStages } from "../Data/championship";
 
 function Championship() {
   return (

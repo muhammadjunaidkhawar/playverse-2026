@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import { FaArrowLeft } from "react-icons/fa6";
 
-import SectionHeading from "../components/SectionHeading";
-import RegistrationForm from "../components/Registration/RegistrationForm";
+import SectionHeading from "../Components/SectionHeading";
+import RegistrationForm from "../Components/Registration/RegistrationForm";
 
 function Registration() {
   return (

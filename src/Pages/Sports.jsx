@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 import { FaArrowLeft } from "react-icons/fa6";
 
-import SectionHeading from "../components/SectionHeading";
-import SportsGrid from "../components/Sport/SportsGrid";
-import { sports } from "../data/sports";
+import SectionHeading from "../Components/SectionHeading";
+import SportsGrid from "../Components/Sport/SportsGrid";
+import { sports } from "../Data/sports";
 
 function Sports() {
   return (
